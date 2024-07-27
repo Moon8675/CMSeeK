@@ -27,3 +27,4 @@ def start(url, ua):
 
     global joom_admin_found, joom_admins
     return [joom_admin_found, joom_admins]
+    
